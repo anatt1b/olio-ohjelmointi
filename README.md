@@ -1,2 +1,2 @@
-# Olio-ohjelmointi-harjoitus_teht-v-t-
+# Olio-ohjelmointi
 OAMK Olio-ohjelmoinnin harjoitustehtäviä
