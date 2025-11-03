@@ -1,0 +1,7 @@
+D:/AMK/olio-ohjelmointi_tuntiharj/person_harjoitus/build/CMakeFiles/person_harjoitus.dir
+D:/AMK/olio-ohjelmointi_tuntiharj/person_harjoitus/build/CMakeFiles/edit_cache.dir
+D:/AMK/olio-ohjelmointi_tuntiharj/person_harjoitus/build/CMakeFiles/rebuild_cache.dir
+D:/AMK/olio-ohjelmointi_tuntiharj/person_harjoitus/build/CMakeFiles/list_install_components.dir
+D:/AMK/olio-ohjelmointi_tuntiharj/person_harjoitus/build/CMakeFiles/install.dir
+D:/AMK/olio-ohjelmointi_tuntiharj/person_harjoitus/build/CMakeFiles/install/local.dir
+D:/AMK/olio-ohjelmointi_tuntiharj/person_harjoitus/build/CMakeFiles/install/strip.dir

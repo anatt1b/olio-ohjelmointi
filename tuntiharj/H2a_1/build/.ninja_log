@@ -1,0 +1,6 @@
+# ninja log v6
+2	307	7838865277748457	CMakeFiles/person_harjoitus.dir/main.cpp.obj	d585310c6bed8cc
+22	316	7838865277952761	CMakeFiles/person_harjoitus.dir/person.cpp.obj	b05d78bc32ed93b0
+316	475	7838865280895525	person_harjoitus.exe	10e693a57fe6fb85
+13	302	7838871826886710	CMakeFiles/person_harjoitus.dir/main.cpp.obj	d585310c6bed8cc
+303	430	7838871829780012	person_harjoitus.exe	10e693a57fe6fb85
