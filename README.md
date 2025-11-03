@@ -1,2 +1,4 @@
 # olio-ohjelmointi
-OAMK Olio-ohjelmoinnin harjoitustehtäviä
+---
+OAMK Olio-ohjelmoinnin kurssitehtäviä
+---
