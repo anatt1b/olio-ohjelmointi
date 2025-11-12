@@ -17,7 +17,7 @@ double Rectangle::getArea(){
 }
 
 double Rectangle::getCircum(){
-    return 2*(width*height);
+    return 2*(width+height);
 }
 
 Rectangle::~Rectangle() {}

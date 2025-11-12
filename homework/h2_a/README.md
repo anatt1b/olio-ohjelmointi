@@ -1,4 +1,4 @@
-# OLIO-OHJELMOINTI
+#
 Tässä harjoituksessa opiskellaan olio-ohjelmoinnin perusteita, kuten luokan luominen, oloiden luominen ja käyttö. Materiaalissa tähän harjoitukseen liityvät asiat:
 
 
