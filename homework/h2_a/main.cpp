@@ -1,8 +1,9 @@
 #include "car.h"
 #include "rectangle.h"
+#include "student.h"
 
 #include <iostream>
-
+#include <memory>
 using namespace std;
 
 int main()
@@ -31,6 +32,22 @@ int main()
     // tuhotaan olio
     delete rect;
     rect = nullptr;
+
+    cout << endl;
+    cout << "******************" << endl;
+    cout << endl;
+
+    // smart pointer
+    unique_ptr<Student> objStudent = make_unique<Student>();
+    objStudent->setName("Riitta Riittanen");
+    objStudent->setStudentNumber(69);
+    objStudent->setAverage(3.4);
+
+    cout << "Opiskelijan nimi: " << objStudent->getName() << endl;
+    cout << "Opiskelijantunnus: " << objStudent->getStudentNumber() << endl;
+    cout << "Opiskelijan keskiarvo: "<< objStudent->getAverage() << endl;
+
+
 
 
 }
