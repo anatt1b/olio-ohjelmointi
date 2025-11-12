@@ -6,7 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(h2_a main.cpp
-    car.h car.cpp)
+    car.h car.cpp
+    rectangle.h rectangle.cpp)
 
 include(GNUInstallDirs)
 install(TARGETS h2_a
