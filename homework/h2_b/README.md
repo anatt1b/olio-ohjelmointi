@@ -1,51 +1,25 @@
-# First Level Heading
+## h2_b assignment
 
-Paragraph.
+Luo C++-projekti nimeltään h2b
 
-## Second Level Heading
+Lisää projektiin luokka nimeltä Car. Tällä luokalla tulisi olla seuraavat jäsenmuuttujat ja metodit:
 
-Paragraph.
+**JÄSENMUUTTUJAT**:
 
-- bullet
-+ other bullet
-* another bullet
-    * child bullet
+- **brand**: merkkijono, joka sisältää auton merkin.
+- **model**: merkkijono, joka sisältää auton mallin.
+- **yearModel**: kokonaisluku, joka sisältää auton valmistusvuoden.
 
-1. ordered
-2. next ordered
 
-### Third Level Heading
+**METODIT**:
 
-Some *italic* and **bold** text and `inline code`.
+  - **printData()**: tulostaa auton merkin, mallin ja valmistusvuoden.
+  - **Car(string, string, int)**: konstruktori, jolla voidaan alustaa kaikki jäsenmuuttujat
 
-An empty line starts a new paragraph.
+**PÄÄOHJELMASSA**:
 
-Use two spaces at the end  
-to force a line break.
+  -  Luo vektori nimeltään carList. (Luo lista pinoon. Et siis tarvitse smart pointteria.)
+  -  Lisää kolme Car-luokan oliota listaan (keksi itse merkit, mallit ja vuosimallit) 
+  -  Tulosta listan toisen alkion tiedot.
+  -  Tulosta kaikkien autojen tiedot käyttämällä for-silmukkaa.
 
-A horizontal ruler follows:
-
----
-
-Add links inline like [this link to the Qt homepage](https://www.qt.io),
-or with a reference like [this other link to the Qt homepage][1].
-
-    Add code blocks with
-    four spaces at the front.
-
-> A blockquote
-> starts with >
->
-> and has the same paragraph rules as normal text.
-
-First Level Heading in Alternate Style
-======================================
-
-Paragraph.
-
-Second Level Heading in Alternate Style
----------------------------------------
-
-Paragraph.
-
-[1]: https://www.qt.io
