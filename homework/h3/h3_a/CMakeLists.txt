@@ -7,7 +7,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(h3_a main.cpp
     Chef.h Chef.cpp
-    ItalianChef.h ItalianChef.cpp)
+    ItalianChef.h ItalianChef.cpp
+    README.md)
 
 include(GNUInstallDirs)
 install(TARGETS h3_a
