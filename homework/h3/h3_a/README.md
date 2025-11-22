@@ -1,6 +1,5 @@
 # PERINTÄ
 
----
 
 ## Kantaluokka Chef
 
