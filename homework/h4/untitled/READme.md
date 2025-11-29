@@ -1,5 +1,7 @@
 # Harjoitus4 (kompositio)
 Sovelluksen luokkakaavio on seuraava:
+
+
 <img width="479" height="658" alt="UML-kaavio" src="https://github.com/user-attachments/assets/460bfd06-02f2-4486-bc1f-1db1669d2e41" />
 
 
