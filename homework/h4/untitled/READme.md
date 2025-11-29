@@ -1,6 +1,6 @@
 # Harjoitus4 (kompositio)
 
-![Sovelluksen luokkakaavio on seuraava: ](/home/ab/Desktop/olio-ohjelmointi/homework/h4/UML-Kaavio.png)
+[Sovelluksen luokkakaavio on seuraava:](UML-Kaavio.png)
 
 Tässä tehtävässä tarkoituksena on mallintaa yksinkertainen auton rakenne C++:ssa käyttämällä kompositiota. Sinun tulee luoda luokat Engine, Wheel ja Car, ja yhdistää nämä osat luokkaan Car komposition avulla.
 
