@@ -1,5 +1,5 @@
 
 ---
-## 📘 Olio-ohjelmoinnin kurssitehtäviä
+## 📘 Olio-ohjelmoinnin harjoituksia
 ---
 
