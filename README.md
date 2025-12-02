@@ -1,5 +1,5 @@
 
 ---
-## 📘 OAMK Olio-ohjelmoinnin kurssitehtäviä
+## 📘 Olio-ohjelmoinnin kurssitehtäviä
 ---
 
