@@ -6,7 +6,10 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(h5 main.cpp
-    classb.h classb.cpp)
+    classb.h classb.cpp
+    classa1.h classa1.cpp
+    classa2.h classa2.cpp
+    README.md)
 
 include(GNUInstallDirs)
 install(TARGETS h5
